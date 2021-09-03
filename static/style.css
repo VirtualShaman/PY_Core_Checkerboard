@@ -1,0 +1,36 @@
+
+* {
+    margin: 0;
+    padding: 0;
+}
+#container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+#test {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+#blackbox {
+    height: 50px;
+    width: 50px;
+    background-color: #000000;
+}
+#redbox {
+    height: 50px;
+    width: 50px;
+    background-color: #ff0000;
+}
+#goldbox {
+    height: 50px;
+    width: 50px;
+    background-color: #FFD700;
+}
+#purplebox {
+    height: 50px;
+    width: 50px;
+    background-color: #400080;
+}
